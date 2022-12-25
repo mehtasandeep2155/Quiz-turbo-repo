@@ -1,0 +1,3 @@
+[submodule "quiz-packages"]
+	path = quiz-packages
+	url = ./quiz-packages
