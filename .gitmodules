@@ -1,3 +1,3 @@
 [submodule "quiz-packages"]
-	path = quiz-packages
+	path = packages
 	url = https://github.com/mehtasandeep134/quiz-packages
